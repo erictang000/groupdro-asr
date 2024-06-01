@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+*.out
+__pycache__/
+checkpoints/
+checkpoint-1000/
+runs/
